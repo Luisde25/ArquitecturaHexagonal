@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\.NET\AdminLibraryHexagonal\src\AdminLibrary.Admin.Core\bin\Debug\net8.0\AdminLibrary.Admin.Core.deps.json
+C:\Users\user\Desktop\.NET\AdminLibraryHexagonal\src\AdminLibrary.Admin.Core\bin\Debug\net8.0\AdminLibrary.Admin.Core.dll
+C:\Users\user\Desktop\.NET\AdminLibraryHexagonal\src\AdminLibrary.Admin.Core\bin\Debug\net8.0\AdminLibrary.Admin.Core.pdb
+C:\Users\user\Desktop\.NET\AdminLibraryHexagonal\src\AdminLibrary.Admin.Core\bin\Debug\net8.0\AdminLibrary.Admin.SharedKernel.dll
+C:\Users\user\Desktop\.NET\AdminLibraryHexagonal\src\AdminLibrary.Admin.Core\bin\Debug\net8.0\AdminLibrary.Admin.SharedKernel.pdb
+C:\Users\user\Desktop\.NET\AdminLibraryHexagonal\src\AdminLibrary.Admin.Core\obj\Debug\net8.0\AdminLibrary.Admin.Core.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\.NET\AdminLibraryHexagonal\src\AdminLibrary.Admin.Core\obj\Debug\net8.0\AdminLibrary.Admin.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\.NET\AdminLibraryHexagonal\src\AdminLibrary.Admin.Core\obj\Debug\net8.0\AdminLibrary.Admin.Core.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\.NET\AdminLibraryHexagonal\src\AdminLibrary.Admin.Core\obj\Debug\net8.0\AdminLibrary.Admin.Core.AssemblyInfo.cs
+C:\Users\user\Desktop\.NET\AdminLibraryHexagonal\src\AdminLibrary.Admin.Core\obj\Debug\net8.0\AdminLibrary.Admin.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\.NET\AdminLibraryHexagonal\src\AdminLibrary.Admin.Core\obj\Debug\net8.0\AdminLib.B828B589.Up2Date
+C:\Users\user\Desktop\.NET\AdminLibraryHexagonal\src\AdminLibrary.Admin.Core\obj\Debug\net8.0\AdminLibrary.Admin.Core.dll
+C:\Users\user\Desktop\.NET\AdminLibraryHexagonal\src\AdminLibrary.Admin.Core\obj\Debug\net8.0\refint\AdminLibrary.Admin.Core.dll
+C:\Users\user\Desktop\.NET\AdminLibraryHexagonal\src\AdminLibrary.Admin.Core\obj\Debug\net8.0\AdminLibrary.Admin.Core.pdb
+C:\Users\user\Desktop\.NET\AdminLibraryHexagonal\src\AdminLibrary.Admin.Core\obj\Debug\net8.0\ref\AdminLibrary.Admin.Core.dll

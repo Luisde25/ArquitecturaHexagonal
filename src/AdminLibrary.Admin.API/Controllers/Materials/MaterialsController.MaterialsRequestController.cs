@@ -1,0 +1,38 @@
+﻿using System.Text.Json.Serialization;
+
+namespace AdminLibrary.Admin.API.Controllers.Materials
+{
+    public class MaterialsRequest
+    {
+        [JsonPropertyName("references")]
+        public string Identifier { get; set; } = string.Empty;
+        [JsonPropertyName("title")]
+        public string Title { get; set; } = string.Empty;
+
+        [JsonPropertyName("register quantity")]
+        public int RegisterQuantity { get; set; }
+
+        [JsonPropertyName("observations")]
+        public string? Observacion { get; set; }
+        [JsonPropertyName("userId")]
+        public int userId { get; set; }
+    }
+    public class MaterialsRequestUpdate
+    {
+
+        [JsonPropertyName("id")]
+        public int Id { get; set; }
+        [JsonPropertyName("references")]
+        public string Identifier { get; set; } = string.Empty;
+        [JsonPropertyName("title")]
+        public string Title { get; set; } = string.Empty;
+        [JsonPropertyName("register quantity")]
+        public int RegisterQuantity { get; set; }
+        [JsonPropertyName("current quantity")]
+        public int CurrentQuantity { get; set; }
+
+        [JsonPropertyName("observations")]
+        public string? Observacion { get; set; }
+
+    }
+}
